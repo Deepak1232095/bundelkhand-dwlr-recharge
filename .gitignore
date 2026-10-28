@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+DWLR_QC/
+run_Q*/
+paper3_final/
+virtual_confined/
+*.csv
+*.nc
+*.shp
+*.png
+*.pdf
+*.pptx

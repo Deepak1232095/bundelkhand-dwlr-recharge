@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "Code for: Resolving Groundwater Recharge From Daily Water Levels: Episodic Dynamics and Specific-Yield Uncertainty in a Semi-Arid Region"
+authors:
+  - family-names: Mishra
+    given-names: Deepak
+    affiliation: "Indian Institute of Technology Indore"
+  - family-names: Goyal
+    given-names: Manish Kumar
+    affiliation: "Indian Institute of Technology Indore"
+license: MIT
